@@ -72,6 +72,10 @@ final class NetworkHandler: NetworkRequestProtocol {
 | Movie Detail view | coming soon ...    |
 
 
+## API related
+
+[iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1)
+
 
 Pending items :
 
